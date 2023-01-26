@@ -12,8 +12,8 @@ Consists of UML diagrams related to various scenarios .<br/>
 
 |Exp.No 		|Expermiment Title & Link  	|Type |Status |
 |:---:|:---:|:---:|:---:|
-|1.		|[Online Voting System](#exp1)	|Use Case Diagram |- |
-|2.		|[Library Management System](#exp2)<br/>	|Use Case Diagram |- |
+|1.		|[Online Voting System](#exp1)	|Use Case Diagram |Uploaded |
+|2.		|[Library Management System](#exp2)<br/>	|Use Case Diagram |Uploaded |
 |3.		|[Computing Quotient and Remainder](#exp3)<br/>	|Flowchart |- |
 |4.		|[Shopping Cart System](#exp4)<br/>	| |- |
 |5.		|[Railway Reservation System](#exp5)<br/>	|Use Case Diagram |- |
