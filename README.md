@@ -48,7 +48,7 @@ Consists of UML diagrams related to various scenarios .<br/>
 |34.		|[Largest of n numbers](#exp34)<br/>	|Flowchart |Uploaded |
 |35.		|[Fibonacci Series](#exp35)<br/>	|Flowchart |Uploaded |
 |36.		|[Smallest number evenly divisible by each number 1 to n](#exp36)<br/>	|Flowchart |- |
-|37.		|[E Wallat Management System ](#exp37)<br/>	|Flowchart |Uploaded |
+|37.		|[E Wallat Management System ](#exp37)<br/>	|Use Case Diagram |Uploaded |
 |38.		|[Online Security Management System ](#exp38)<br/>	|Class Diagram |Uploaded |
 |39.		|[Online Voting System](#exp39)<br/>	|Activity Diagram |Uploaded |
 |40.		|[Checking Palindrome](#exp40)<br/>	|Flowchart |Uploaded |
