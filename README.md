@@ -44,11 +44,11 @@ Consists of UML diagrams related to various scenarios .<br/>
 |30.		|[Factorial of a number](#exp30)<br/>	|Flowchart |Uploaded |
 |31.		|[Odd Series](#exp31)<br/>	|Flowchart |Uploaded |
 |32.		|[String Operation - 3 : Reversal ](#exp32)	|Flowchart |Uploaded |
-|33.		|[Sum of first n numbers](#exp33)<br/>	|Flowchart |- |
-|34.		|[Largest of n numbers](#exp34)<br/>	|Flowchart |- |
-|35.		|[Fibonacci Series](#exp35)<br/>	|Flowchart |- |
+|33.		|[Find n if sum of first n numbers is given ](#exp33)<br/>	|Flowchart |Uploaded |
+|34.		|[Largest of n numbers](#exp34)<br/>	|Flowchart |Uploaded |
+|35.		|[Fibonacci Series](#exp35)<br/>	|Flowchart |Uploaded |
 |36.		|[Smallest number evenly divisible by each number 1 to n](#exp36)<br/>	|Flowchart |- |
-|37.		|[E Wallat Management System ](#exp37)<br/>	|Flowchart |- |
+|37.		|[E Wallat Management System ](#exp37)<br/>	|Flowchart |Uploaded |
 |38.		|[Online Security Management System ](#exp38)<br/>	|Class Diagram |Uploaded |
 |39.		|[Online Voting System](#exp39)<br/>	|Activity Diagram |Uploaded |
 |40.		|[Checking Palindrome](#exp40)<br/>	|Flowchart |Uploaded |
